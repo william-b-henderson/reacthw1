@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/william-b-henderson/reacthw1/static/css/main.b9f5cd9c.chunk.css",
+    "main.js": "/william-b-henderson/reacthw1/static/js/main.02ff0e69.chunk.js",
+    "main.js.map": "/william-b-henderson/reacthw1/static/js/main.02ff0e69.chunk.js.map",
+    "runtime-main.js": "/william-b-henderson/reacthw1/static/js/runtime-main.f8bf5fdf.js",
+    "runtime-main.js.map": "/william-b-henderson/reacthw1/static/js/runtime-main.f8bf5fdf.js.map",
+    "static/css/2.150d169a.chunk.css": "/william-b-henderson/reacthw1/static/css/2.150d169a.chunk.css",
+    "static/js/2.abfb4695.chunk.js": "/william-b-henderson/reacthw1/static/js/2.abfb4695.chunk.js",
+    "static/js/2.abfb4695.chunk.js.map": "/william-b-henderson/reacthw1/static/js/2.abfb4695.chunk.js.map",
+    "static/js/3.137ba5cf.chunk.js": "/william-b-henderson/reacthw1/static/js/3.137ba5cf.chunk.js",
+    "static/js/3.137ba5cf.chunk.js.map": "/william-b-henderson/reacthw1/static/js/3.137ba5cf.chunk.js.map",
+    "index.html": "/william-b-henderson/reacthw1/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/william-b-henderson/reacthw1/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.b9f5cd9c.chunk.css.map": "/william-b-henderson/reacthw1/static/css/main.b9f5cd9c.chunk.css.map",
+    "static/js/2.abfb4695.chunk.js.LICENSE.txt": "/william-b-henderson/reacthw1/static/js/2.abfb4695.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8bf5fdf.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.abfb4695.chunk.js",
+    "static/css/main.b9f5cd9c.chunk.css",
+    "static/js/main.02ff0e69.chunk.js"
+  ]
+}
